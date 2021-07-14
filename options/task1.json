@@ -1,0 +1,6 @@
+[
+    {"value": 0, "label": "Options do not make sense"},
+    {"value": 1, "label": "Task does not exist/has not been fulfilled"},
+    {"value": 2, "label": "Task was fulfilled by someone else"},
+    {"value": 3, "label": "Task was fulfilled by this option beneficiary"}
+]
